@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prayer Times", "Prayer Times\Prayer Times.csproj", "{79B7F42B-558E-4521-AD27-BE928934BF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B7F42B-558E-4521-AD27-BE928934BF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B7F42B-558E-4521-AD27-BE928934BF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B7F42B-558E-4521-AD27-BE928934BF3B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{79B7F42B-558E-4521-AD27-BE928934BF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B7F42B-558E-4521-AD27-BE928934BF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B7F42B-558E-4521-AD27-BE928934BF3B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D16E0B9-B8BC-4DCF-8337-745C4B5194C4}
+	EndGlobalSection
+EndGlobal
